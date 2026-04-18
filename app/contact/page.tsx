@@ -33,7 +33,7 @@ export default function ContactPage() {
 
           {/* WhatsApp CTA — primary */}
           <a
-            href="https://wa.me/923257496934"
+            href="https://wa.me/923104186069"
             className="flex items-center gap-5 bg-green-950 rounded-sm p-6 mb-6 group hover:bg-green-800 transition-colors duration-200"
           >
             <div className="w-14 h-14 rounded-full bg-gold-500/10 flex items-center justify-center flex-shrink-0">
@@ -43,7 +43,7 @@ export default function ContactPage() {
             </div>
             <div className="flex-1">
               <p className="text-gold-500 text-xs uppercase tracking-widest font-inter mb-1">Message us on WhatsApp</p>
-              <p className="text-white font-semibold text-xl font-playfair">+92 325 7496934</p>
+              <p className="text-white font-semibold text-xl font-playfair">+92 310 4186069</p>
               <p className="text-gray-400 text-xs mt-1 font-inter">Available Mon–Sat, 9 am–7 pm · Tap to open WhatsApp</p>
             </div>
             <svg className="w-5 h-5 text-gold-500 flex-shrink-0 group-hover:translate-x-1 transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -53,7 +53,7 @@ export default function ContactPage() {
 
           {/* Email */}
           <a
-            href="mailto:Hassan.muhaiyuldin@gmail.com"
+            href="mailto:hassansapra00@gmail.com"
             className="flex items-center gap-5 bg-white border border-gray-100 rounded-sm p-6 mb-6 shadow-sm group hover:border-green-950/20 hover:shadow-md transition-all duration-200"
           >
             <div className="w-14 h-14 rounded-full bg-green-950/5 flex items-center justify-center flex-shrink-0">
@@ -64,7 +64,7 @@ export default function ContactPage() {
             </div>
             <div className="flex-1">
               <p className="text-gray-400 text-xs uppercase tracking-widest font-inter mb-1">Email us</p>
-              <p className="text-green-950 font-semibold text-lg font-playfair">Hassan.muhaiyuldin@gmail.com</p>
+              <p className="text-green-950 font-semibold text-lg font-playfair">hassansapra00@gmail.com</p>
               <p className="text-gray-400 text-xs mt-1 font-inter">We typically reply within a few hours</p>
             </div>
             <svg className="w-5 h-5 text-gray-300 flex-shrink-0 group-hover:text-green-950 group-hover:translate-x-1 transition-all duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -105,7 +105,7 @@ export default function ContactPage() {
             care of the rest.
           </p>
           <a
-            href="https://wa.me/923257496934"
+            href="https://wa.me/923104186069"
             className="inline-flex items-center gap-3 bg-green-950 text-white font-semibold px-8 py-4 rounded-sm hover:bg-green-800 transition-colors duration-200 font-inter tracking-wide"
           >
             <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">

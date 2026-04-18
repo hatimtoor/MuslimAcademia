@@ -124,10 +124,10 @@ export default function FacultyPage() {
             Reach out to us with your CV and a brief introduction.
           </p>
           <a
-            href="mailto:Hassan.muhaiyuldin@gmail.com"
+            href="mailto:hassansapra00@gmail.com"
             className="inline-block bg-green-950 text-white font-semibold px-8 py-3 rounded-sm hover:bg-green-800 transition-colors duration-200 font-inter tracking-wide text-sm"
           >
-            Hassan.muhaiyuldin@gmail.com
+            hassansapra00@gmail.com
           </a>
         </div>
       </section>

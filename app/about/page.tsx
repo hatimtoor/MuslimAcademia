@@ -24,8 +24,8 @@ const contactDetails = [
       </svg>
     ),
     label: 'WhatsApp',
-    value: '+92 325 7496934',
-    href: 'https://wa.me/923257496934',
+    value: '+92 310 4186069',
+    href: 'https://wa.me/923104186069',
   },
   {
     icon: (
@@ -35,8 +35,8 @@ const contactDetails = [
       </svg>
     ),
     label: 'Email',
-    value: 'Hassan.muhaiyuldin@gmail.com',
-    href: 'mailto:Hassan.muhaiyuldin@gmail.com',
+    value: 'hassansapra00@gmail.com',
+    href: 'mailto:hassansapra00@gmail.com',
   },
 ]
 
