@@ -84,9 +84,9 @@ export default function ContactPage() {
             <div>
               <p className="text-gray-400 text-xs uppercase tracking-widest font-inter mb-1">Our Address</p>
               <p className="text-green-950 font-semibold text-lg font-playfair leading-snug">
-                123 Education Street<br />
-                Model Town, Lahore<br />
-                Punjab, Pakistan
+                1st floor, Islamic Stars Model High School,<br />
+                Street no 2, Ghang Road,<br />
+                Sheikhupura, Punjab, Pakistan
               </p>
             </div>
           </div>

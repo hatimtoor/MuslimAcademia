@@ -15,7 +15,7 @@ const contactDetails = [
       </svg>
     ),
     label: 'Address',
-    value: '123 Education Street, Model Town, Lahore, Punjab, Pakistan',
+    value: '1st floor, Islamic Stars Model High School, Street no 2, Ghang Road, Sheikhupura, Punjab, Pakistan',
   },
   {
     icon: (

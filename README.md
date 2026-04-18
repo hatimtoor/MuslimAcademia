@@ -97,6 +97,6 @@ No environment variables are required for this project.
 ## Contact
 
 **Muslim Academia**  
-123 Education Street, Model Town, Lahore, Punjab, Pakistan  
+1st floor, Islamic Stars Model High School, Street no 2, Ghang Road, Sheikhupura, Punjab, Pakistan  
 WhatsApp: +92 310 4186069  
 Email: hassansapra00@gmail.com
