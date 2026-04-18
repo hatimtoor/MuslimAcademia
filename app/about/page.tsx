@@ -24,8 +24,8 @@ const contactDetails = [
       </svg>
     ),
     label: 'WhatsApp',
-    value: '+92 300 0000000',
-    href: 'https://wa.me/923000000000',
+    value: '+92 325 7496934',
+    href: 'https://wa.me/923257496934',
   },
   {
     icon: (
@@ -35,8 +35,8 @@ const contactDetails = [
       </svg>
     ),
     label: 'Email',
-    value: 'info@muslimacademia.com',
-    href: 'mailto:info@muslimacademia.com',
+    value: 'Hassan.muhaiyuldin@gmail.com',
+    href: 'mailto:Hassan.muhaiyuldin@gmail.com',
   },
 ]
 

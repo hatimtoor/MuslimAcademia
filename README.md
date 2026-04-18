@@ -98,5 +98,5 @@ No environment variables are required for this project.
 
 **Muslim Academia**  
 123 Education Street, Model Town, Lahore, Punjab, Pakistan  
-WhatsApp: +92 300 0000000  
-Email: info@muslimacademia.com
+WhatsApp: +92 325 7496934  
+Email: Hassan.muhaiyuldin@gmail.com
